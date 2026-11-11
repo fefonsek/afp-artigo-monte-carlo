@@ -1,0 +1,8 @@
+parametro,descricao,minimo,maximo,moda_ou_base,distribuicao,fonte
+T,Vida útil da usina (anos),25,35,30,gama,Wiser et al. (2020)
+p_PV,Preço do sistema FV (€/kWp),1000,1200,1100,gama,Biermayr et al. (2023)
+WACC,Taxa de desconto nominal,0.04,0.08,0.06,uniforme,Coppitters et al. (2020)
+OPEX_PV,OPEX anual (€/kWp),16,19,17.5,uniforme,Coppitters et al. (2020)
+r_UE,Custos imprevistos (% do CAPEX ao ano),0.0,2.5,1.5,beta,Lorenzo et al. (2020) e outros
+B_tot_local1,Benefício anual local 1 (€/kWp),116.28,128.37,123.13,gama,PVgis 2005-2020
+B_tot_local2,Benefício anual local 2 (€/kWp),125.76,136.25,133.23,gama,PVgis 2005-2020

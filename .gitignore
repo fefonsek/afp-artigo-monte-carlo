@@ -1,0 +1,6 @@
+/.quarto/
+*_files/
+/index.html
+__pycache__/
+*.pyc
+.Rproj.user/
